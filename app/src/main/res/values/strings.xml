@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Application Popup</string>
+    <string name="ayudaU">Ayuda 1</string>
+    <string name="AyudaD">Ayuda 2</string>
+    <string name="AyudaIco">Ayuda Icono</string>
+</resources>
